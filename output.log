@@ -1,0 +1,13 @@
+main: pid = 6863, opened file: 'output.log'[tag = T0] pid = 6863 ppid = 5014 tid = 6864 std_id = 140154840807104 iter = 0
+[tag = T1] pid = 6863 ppid = 5014 tid = 6865 std_id = 140154832414400 iter = 0
+[tag = T2] pid = 6863 ppid = 5014 tid = 6866 std_id = 140154714977984 iter = 0
+[tag = T3] pid = 6863 ppid = 5014 tid = 6867 std_id = 140154824021696 iter = 0
+[tag = T0] pid = 6863 ppid = 5014 tid = 6864 std_id = 140154840807104 iter = 1
+[tag = T3] pid = 6863 ppid = 5014 tid = 6867 std_id = 140154824021696 iter = 1
+[tag = T2] pid = 6863 ppid = 5014 tid = 6866 std_id = 140154714977984 iter = 1
+[tag = T1] pid = 6863 ppid = 5014 tid = 6865 std_id = 140154832414400 iter = 1
+[tag = T0] pid = 6863 ppid = 5014 tid = 6864 std_id = 140154840807104 iter = 2
+result: iterations = 3[tag = T1] pid = 6863 ppid = 5014 tid = 6865 std_id = 140154832414400 iter = 2
+[tag = T2] pid = 6863 ppid = 5014 tid = 6866 std_id = 140154714977984 iter = 2
+[tag = T3] pid = 6863 ppid = 5014 tid = 6867 std_id = 140154824021696 iter = 2
+result: iterations = 3result: iterations = 3result: iterations = 3main: all threads finished, file closed
